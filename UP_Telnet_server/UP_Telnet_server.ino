@@ -2,7 +2,7 @@
   johann.maxen@gmail.com, September 2014
   
   Firmware code for Telnet Server on Arduino Uno Ethernet V3
-
+  This will be merged with the main code module if codespace allows
 */
 
 // Ethernet parameters
