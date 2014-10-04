@@ -416,6 +416,7 @@ double round(double x) {
       3   ----------------  Temp sensor input
       2   ----------------  Aux system LED (SMD red)
 
+      All outputs buffered to ULN2803
 *************************************************************/
 
 
