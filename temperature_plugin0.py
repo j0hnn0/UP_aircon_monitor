@@ -21,8 +21,8 @@ READ_TIMEOUT = 2
 RETRIES = 1
 
 # default thresholds
-t_warn = 27.0
-t_crit = 30.0
+t_warn = 28.0
+t_crit = 31.0
 
 serverpage = 'http://'
 
